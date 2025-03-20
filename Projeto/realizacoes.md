@@ -5,8 +5,11 @@
 - [x] Estruturação das pastas principais
 - [x] Documentação inicial
 - [x] Página HTML base
+- [x] Implementação do carrossel
+- [x] Perfis dos terapeutas
+- [x] Sistema de documentação
 
 ## Em Andamento
-- [ ] Design do carrossel
-- [ ] Perfis dos terapeutas
-- [ ] Integrações de sistemas
+- [ ] Integração com sistema de agendamento
+- [ ] Área administrativa
+- [ ] Sistema de notificações

@@ -4,11 +4,13 @@
 - Estabelecimento da estrutura do projeto
 - Documentação inicial
 - Página base HTML
+- Carrossel implementado
+- Perfis criados
 
 ## Marco 2: MVP 🚧
-- Implementação do carrossel
-- Criação dos primeiros perfis
-- Design responsivo básico
+- Implementação do agendamento
+- Fotos reais dos terapeutas
+- Design responsivo finalizado
 
 ## Marco 3: Funcionalidades 📅
 - Sistema de busca

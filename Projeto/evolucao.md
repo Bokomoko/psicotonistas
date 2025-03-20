@@ -5,8 +5,11 @@
 - Implementação do README.md base
 - Criação do index.html básico
 - Estabelecimento da estrutura de documentação
+- Implementação do carrossel animado
+- Criação dos perfis das terapeutas
+- Definição do dicionário de termos
 
 ## Próximos Passos
-- Implementação do carrossel de terapeutas
-- Desenvolvimento dos perfis individuais
-- Integração de funcionalidades interativas
+- Integração das fotos reais das terapeutas
+- Implementação do sistema de agendamento
+- Desenvolvimento da área administrativa

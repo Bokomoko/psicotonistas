@@ -5,30 +5,32 @@ Este é um projeto demonstrativo que mostra a evolução de um site construído 
 ## Estrutura do Projeto
 
 ### 📁 Perfis/
-Diretório contendo subpastas individuais para cada terapeuta, com suas informações profissionais e detalhes de atendimento.
+Diretório contendo subpastas individuais para cada terapeuta, com suas informações profissionais e detalhes de atendimento:
+- LaraLima/
+- FernandaMota/
+- NaniMilet/
 
 ### 📁 Carrossel/
-Página principal do site em HTML, apresentando os terapeutas e informações relevantes.
+Página principal do site em HTML, apresentando os terapeutas e informações relevantes:
+- Carrossel interativo com animações
+- Apresentação visual dos terapeutas
 
 ### 📁 Apps/
 Aplicativos e integrações desenvolvidos para complementar o site principal. Pode incluir diferentes linguagens de programação conforme necessário.
 
 ### 📁 Projeto/
-Documentação detalhada das etapas do projeto, incluindo:
+Documentação detalhada das etapas do projeto:
 - Controle de evolução
 - Acompanhamento de realizações
 - Marcos do projeto
-
-### 📁 Definições/
-Documentação técnica e regras do projeto:
-- Dicionário de termos
-- Regras e padrões
-- Explicações técnicas
-- Glossário do projeto
+- 📁 Definições/
+  - Dicionário de termos e glossário
+  - Regras e padrões
+  - Especificações técnicas
 
 ### 📁 Prompts/
 Registro dos prompts utilizados para gerar o projeto:
-- Comandos serializados
+- Comandos serializados (001-014)
 - Histórico de interações com a IA
 - Documentação do processo de desenvolvimento
 

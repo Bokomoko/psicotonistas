@@ -31,5 +31,5 @@ O objetivo é despertar em cada pessoa sua capacidade natural de:
 
 ## Contato
 - CRP: XX/XXXXX
-- Email: nani.milet@psicotonistas.com.br
+- Email: nani.milet@casadaviscondessa.com.br
 - Atendimento: Online e Presencial

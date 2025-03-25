@@ -14,5 +14,5 @@
 
 ## Contato
 - CRP: XX/XXXXX
-- Email: fernanda.mota@psicotonistas.com.br
+- Email: fernanda.mota@casadaviscondessa.com.br
 - Atendimento: Presencial

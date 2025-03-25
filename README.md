@@ -1,4 +1,4 @@
-# Projeto Psicotonistas
+# Projeto Casa da Viscondessa
 
 Este é um projeto demonstrativo que mostra a evolução de um site construído com auxílio de Inteligência Artificial. Cada commit representa uma etapa da evolução do projeto, demonstrando como a IA auxilia na edição e criação dos arquivos através de comandos específicos.
 

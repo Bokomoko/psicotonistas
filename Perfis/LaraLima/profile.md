@@ -14,5 +14,5 @@
 
 ## Contato
 - CRP: XX/XXXXX
-- Email: lara.lima@psicotonistas.com.br
+- Email: lara.lima@casadaviscondessa.com.br
 - Atendimento: Presencial e Online
